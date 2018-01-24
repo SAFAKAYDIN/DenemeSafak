@@ -86,12 +86,20 @@
       <option name="presentableId" value="Default" />
       <updated>1516815796052</updated>
       <workItem from="1516815797223" duration="35000" />
-      <workItem from="1516816310468" duration="96000" />
+      <workItem from="1516816310468" duration="152000" />
     </task>
+    <task id="LOCAL-00001" summary="ilkdefa">
+      <created>1516816423132</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516816423132</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131000" />
+    <option name="totallyTimeSpent" value="187000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -121,6 +129,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ilkdefa" />
+    <option name="LAST_COMMIT_MESSAGE" value="ilkdefa" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
